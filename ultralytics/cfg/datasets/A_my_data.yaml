@@ -1,0 +1,17 @@
+# # 数据集根路径（可选）
+# path: C:/Users/cly/Desktop/datasets/images
+
+# # 训练集、验证集
+# train: C:/Users/cly/Desktop/datasets/images/train
+# val:   C:/Users/cly/Desktop/datasets/images/val
+# test:  # 如果没有测试集可以留空
+path: C:/Users/cly/Desktop/datasets/images
+train: C:/Users/cly/Desktop/datasets/images/train
+val:  C:/Users/cly/Desktop/datasets/images/val
+test: C:/Users/cly/Desktop/datasets/images/test
+# 类别
+names:
+  0: holothurian
+  1: echinus
+  2: scallop
+  3: starfish
